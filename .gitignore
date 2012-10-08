@@ -1,0 +1,12 @@
+pom.xml
+*jar
+/lib/
+/classes/
+.lein-deps-sum
+.classpath
+.settings/
+.project
+/bin/
+*war
+target/
+checkouts/
